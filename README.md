@@ -1,7 +1,7 @@
 Step to start short url application:-
 <br/>1.go to service.js and type on integrated terminal npm run devStart.<br/>
 <br/>2.Than mongoose which is connected with mongodb gets activated.<br/>
-<br/>3.Go to your chrome tab and type localhost 5000.<br/>
+<br/>3.Go to your chrome tab and type localhost:5000.<br/>
 <br/>4.My application will automatically start.<br/>
 <br/>5.Copy some big url and paste it on the url box and click on shrink.<br/>
 <br/>6.Your big url gets shortened.<br/>
